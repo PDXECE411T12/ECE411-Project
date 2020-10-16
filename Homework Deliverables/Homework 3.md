@@ -67,3 +67,4 @@ The smart lock solutions listed here do not have RFID/NFC as a method for unlock
 * 3D printed model with accompanying lock to assist in CAD
 ![](./imgs/Lockmodel.jpg)
 * Render of current CAD work
+![](./imgs/DeadboltAssembly.png)
