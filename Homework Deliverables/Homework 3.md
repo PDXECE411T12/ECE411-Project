@@ -4,6 +4,7 @@ Authors:
 Miles Breslin, Miguel Higgins Moy, Noah Page, John Sharpe
 
 October 15, 2020
+
 Version 2.0
 
 # Executive Summary
