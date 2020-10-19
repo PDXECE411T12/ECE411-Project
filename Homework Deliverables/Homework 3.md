@@ -1,12 +1,10 @@
 # Smart RFID Door Lock Project Design Specifications
 
 Authors:
-Miles Breslin
-Miguel Higgins Moy
-Noah Page
-John Sharpe
+Miles Breslin, Miguel Higgins Moy, Noah Page, John Sharpe
 
 October 15, 2020
+Version 2.0
 
 # Executive Summary
 
