@@ -1,3 +1,13 @@
+# Smart RFID Door Lock Project Design Specifications
+
+Authors:
+Miles Breslin
+Miguel Higgins Moy
+Noah Page
+John Sharpe
+
+October 15, 2020
+
 # Executive Summary
 
 The goal of this project is to make an RFID smart door lock mechanism for houses or apartments that is secure, easy to install, low cost, and that will work with standard doorlock mechanisms. This would offer people the versatility entering their homes using a normal key, or an RFID enabled phone, implant, or keycard.
