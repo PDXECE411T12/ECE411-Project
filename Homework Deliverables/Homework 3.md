@@ -63,7 +63,7 @@ The smart lock solutions listed here do not use RFID/NFC as a method for unlocki
 # System Architecture
 
 * RFID Door Lock Block Diagram
-![](./imgs/411 HW3 Block Diagram.png)
+![](https://github.com/PDXECE411T12/ECE411-Project/blob/master/Homework%20Deliverables/imgs/411%20HW3%20Block%20Diagram.png)
 
 # Design Specification
 * 3D printed housing that does not affect the structural integrity of the existing lock
