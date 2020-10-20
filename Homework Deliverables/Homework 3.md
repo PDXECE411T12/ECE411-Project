@@ -1,4 +1,4 @@
-# Smart RFID Door Lock Project Design Specifications
+# Smart RFID Door Lock Project Design Requirements and Specifications
 
 Authors:
 Miles Breslin, Miguel Higgins Moy, Noah Page, John Sharpe
