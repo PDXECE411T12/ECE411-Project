@@ -9,7 +9,7 @@ Version 2.0
 
 # Executive Summary
 
-The goal of this project is to make an RFID smart door lock mechanism for houses or apartments that is secure, easy to install, low cost, and that will work with standard doorlock mechanisms. This would offer people the versatility entering their homes using a normal key, or an RFID enabled phone, implant, or keycard.
+The goal of this project is to make an RFID smart door lock mechanism for residential use that is secure, easy to install, low cost, and that will work with standard doorlock mechanisms. This would offer customers the versatility of entering their homes using a normal key, or an RFID enabled phone, implant, or keycard. By tapping the RFID card against the RFID reader on the outside of the door, the user can easily toggle between locking and unlocking the door. 
 
 # Market Analysis
 
@@ -41,7 +41,7 @@ Solution 3 - Most other smart locks
 * Lacks an RFID/NFC sensor
 * Less expensive, but still over $100
 
-The smart lock solutions listed here do not use RFID/NFC as a method for unlocking, and existing solutions that do use RFID are mainly focused on enterprise customers who are able to build out integrated locking methods into the door and frame that require a central controller for multiple doors. These methods are not only expensive, but not feasible for a standard consumer. Our design will offer standard consumers an RFID enabled smart lock that does not require a subscription at a lower price than most other smart locks, which start at around $150.
+The smart lock solutions listed here do not use RFID/NFC as a method for unlocking, and existing solutions that do use RFID are mainly focused on enterprise customers who are able to build out integrated locking methods into the door and frame that require a central controller for multiple doors. These methods are not only expensive, but not feasible for a standard consumer. Our design will offer standard consumers an RFID enabled smart lock that does not require a subscription at a lower price than most other smart locks, which start at around $150. Our current estimate on parts is about $60, so we feel that we could sell the product for around $100. This price is well below our competition and leaves us some headroom to increase the price if production costs exceed our current estimate.
 
 # Requirements
 
