@@ -73,9 +73,9 @@ The smart lock solutions listed here do not use RFID/NFC as a method for unlocki
 * AA battery powered
 * Programmed in Arduino IDE
 
-# Progress so far
+# Progress So Far
 
 * 3D printed model with accompanying lock to assist in CAD
 ![](./imgs/Lockmodel.jpg)
-* Render of current CAD work
+* Render of current CAD work with RC522 and outer door housing
 ![](./imgs/DeadboltAssembly.png)
