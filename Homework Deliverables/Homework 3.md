@@ -14,6 +14,7 @@ The goal of this project is to make an RFID smart door lock mechanism for reside
 # Market Analysis
 
 Solution 1 - Level Bolt
+
 * Not visible on the outside/inside of the door
 * Great battery life
 * Easy battery changes
@@ -24,6 +25,7 @@ Solution 1 - Level Bolt
 * Expensive! - $229
 
 Solution 2 - August Wi-Fi Smart Lock
+
 * Not visible on the outside of the door
 * Easiest installation
 * Great battery life
@@ -35,6 +37,7 @@ Solution 2 - August Wi-Fi Smart Lock
 * Expensive! - $249.99
 
 Solution 3 - Most other smart locks
+
 * Replaces entire lock assembly
 * Has a pin-pad on the outside (therefore ugly and not discrete)
 * Not always able to use existing lock
@@ -62,10 +65,12 @@ The smart lock solutions listed here do not use RFID/NFC as a method for unlocki
 
 # System Architecture
 
-* RFID Door Lock Block Diagram
-![](https://github.com/PDXECE411T12/ECE411-Project/blob/master/Homework%20Deliverables/imgs/411%20HW3%20Block%20Diagram.png)
+### RFID Door Lock Block Diagram
+
+![](./imgs/411 HW3 Block Diagram.png)
 
 # Design Specification
+
 * 3D printed housing that does not affect the structural integrity of the existing lock
 * Custom PCB for ESP-12F Module to connect actuator and sensor
 * Servo as the actuator
@@ -75,7 +80,9 @@ The smart lock solutions listed here do not use RFID/NFC as a method for unlocki
 
 # Progress So Far
 
-* 3D printed door model and outer door housing
+### 3D printed door model and outer door housing
+
 ![](./imgs/Lockmodel.jpg)
-* Render of current CAD work with RC522 and outer door housing
+
+### Render of current CAD work with RC522 and outer door housing
 ![](./imgs/DeadboltAssembly.png)
