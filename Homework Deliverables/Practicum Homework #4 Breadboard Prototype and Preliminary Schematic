@@ -1,0 +1,38 @@
+# Breadboard Prototype and Preliminary Schematic
+
+Authors:
+Miles Breslin, Miguel Higgins Moy, Noah Page, John Sharpe
+
+October 31, 2020
+
+Version 1.0
+
+# Part 1: Prototype Design
+
+Current Status:
+
+# Electronic Components:
+The processor reads and identifies different RFID cards flawlessly. Output logic signal from reading an RFID card needs to be changed 
+from active high to edge triggered. Power source has not been finalized, but the servo and processor can run on 3.3V 
+(although a slightly higher voltage would be prefered), allowing for use of AA or 9V batteries, or USB to power the system. 
+
+Prototype Circuit responding to RFID card (substituting LED for servo as actuator)
+
+![](./imgs/Doorlock Video.mp4)
+
+# Housing:
+A CAD model has been designed and will be 3D printed to hold the doorlock and electronic components. This model may be refined slightly, 
+but is close to its final iteration.
+
+
+CAD renders of housing design
+
+![](./imgs/CAD enclosure.png)
+
+# Part 2: Preliminary Schematic
+
+![](./imgs/Lockmodel.jpg)
+
+Download Link to EAGLE file: 
+.brd file: https://github.com/PDXECE411T12/ECE411-Project/blob/master/EagleCAD/ESP8266%20RFID%20Schematic.brd
+.sch file: https://github.com/PDXECE411T12/ECE411-Project/blob/master/EagleCAD/ESP8266%20RFID%20Schematic.sch
