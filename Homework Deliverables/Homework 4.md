@@ -14,7 +14,7 @@ from active high to edge triggered. Power source has not been finalized, but the
 
 ![](./imgs/DoorLockCircuit.png)
 
-[Here is a link](./imgs/Doorlock.mp4)
+[Video of trying out circuit](./imgs/Doorlock.mp4)
 
 ### Housing:
 A CAD model has been designed and 3D printed to hold the door-lock and electronic components. This model may be refined slightly, 
@@ -25,4 +25,6 @@ but is close to its final iteration.
 
 ### Part 2: Preliminary Schematic
 
-[Check out our Eagle Schematic](./../EagleCAD/Schematic)
+![](./imgs/PreliminarySchematic.png)
+
+[Check out our Eagle CAD files](./../EagleCAD/Schematic/EAGLESchematic.zip)
