@@ -18,21 +18,24 @@ from active high to edge triggered. Power source has not been finalized, but the
 
 Prototype Circuit responding to RFID card (substituting LED for servo as actuator)
 
-![](./imgs/Doorlock Video.mp4)
+![](https://github.com/PDXECE411T12/ECE411-Project/blob/master/Homework%20Deliverables/imgs/DoorLock%20Circuit.png)
+
+Link to Video of actuation:
+https://github.com/PDXECE411T12/ECE411-Project/raw/master/Homework%20Deliverables/imgs/Doorlock%20Video.mp4
+
 
 # Housing:
-A CAD model has been designed and will be 3D printed to hold the doorlock and electronic components. This model may be refined slightly, 
+A CAD model has been designed and 3D printed to hold the doorlock and electronic components. This model may be refined slightly, 
 but is close to its final iteration.
 
 
 CAD renders of housing design
 
-![](./imgs/CAD enclosure.png)
+![](https://github.com/PDXECE411T12/ECE411-Project/blob/master/Homework%20Deliverables/imgs/CAD%20enclosure.png)
 
 # Part 2: Preliminary Schematic
 
-![](./imgs/Lockmodel.jpg)
+![](https://github.com/PDXECE411T12/ECE411-Project/blob/master/Homework%20Deliverables/imgs/Preliminary%20Schematic.png)
 
 Download Link to EAGLE file: 
-.brd file: https://github.com/PDXECE411T12/ECE411-Project/blob/master/EagleCAD/ESP8266%20RFID%20Schematic.brd
-.sch file: https://github.com/PDXECE411T12/ECE411-Project/blob/master/EagleCAD/ESP8266%20RFID%20Schematic.sch
+https://github.com/PDXECE411T12/ECE411-Project/blob/master/EagleCAD/EAGLE%20Schematic.zip
