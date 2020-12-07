@@ -3,13 +3,17 @@
 Authors:
 Miles Breslin, Miguel Higgins Moy, Noah Page, John Sharpe
 
-October 15, 2020
+December 6, 2020
 
-Version 2.0
+Version 3.0
 
-# Executive Summary
+# Need Statement
 
-The goal of this project is to make an RFID smart door lock mechanism for residential use that is secure, easy to install, low cost, and that will work with standard doorlock mechanisms. This would offer customers the versatility of entering their homes using a normal key, or an RFID enabled phone, implant, or keycard. By tapping the RFID card against the RFID reader on the outside of the door, the user can easily toggle between locking and unlocking the door. 
+The Internet of Things has infiltrated the home security market including smart locks for your front door. The RFID based locking system is a more convenient interface than the IOT devices, however, the RFID market is still mainly a commercial application and a very expensive one at that. As people begin to modernize their homes we think there is a need for the convenience provided by the RFID sensor that may also have other smart features.
+
+# Objective Statement
+
+The objective of this project is to make an RFID smart door lock mechanism for residential use that is secure, easy to install, low cost, and that will work with standard doorlock mechanisms. This would offer customers the versatility of entering their homes using a normal key, or an RFID enabled phone, implant, or keycard. By tapping the RFID card against the RFID reader on the outside of the door, the user can easily toggle between locking and unlocking the door. 
 
 # Market Analysis
 
@@ -54,13 +58,12 @@ The smart lock solutions listed here do not use RFID/NFC as a method for unlocki
 * Should be able to work with existing locks
 * Should be able to use a normal key
 * Should be able to lock/unlock from the inside by physical means
-* Should be able to last for multiple years
-* Should be durable
+* Should be durable enough to last more than a year with regular use
 * Should be cheaper than market offerings (<$150)
 * Should be able to work during a power outage
-* Should be reliable
-* May be easy to install
-* May have a decent battery life
+* Should reliably sense RFID on first try 90% of the time
+* Should be installed with 2mm and 2.5mm hex wrench and philips head screwdriver by homeowner
+* May have enough battery capacity for regular use that will last a month
 * May have smart home integration
 
 # System Architecture
