@@ -3,9 +3,9 @@
 Authors:
 Miles Breslin, Miguel Higgins Moy, Noah Page, John Sharpe
 
-December 6, 2020
+December 8, 2020
 
-Version 3.0
+Version 4.0
 
 # Need Statement
 
@@ -80,12 +80,67 @@ The smart lock solutions listed here do not use RFID/NFC as a method for unlocki
 * RC-522 module located on the outside of the door
 * AA battery powered
 * Programmed in Arduino IDE
+# Practicum Design Specification
+### MUST
+#### Project Concept
+* Have ≥ 1 sensor.
+* Have ≥ 1 actuator.
+* Have a digital or analog processor.
+* Has to be safe.
+#### Schematic
+* Be in a schematic capture program.
+* Be at least forward annotated with your PCB design.
+#### PCB
+* Have ≥ 2 layers, with solder mask and at least a top-side silk screen.
+* Have an area between > 9 cm 2 and < 900 cm 2 .
+* Have no linear dimension < 2 cm or > 30 cm.
+#### Processor
+* Have the processor on your PCB 
+* Be able to program your processor without removing the processor from the PCB.
+#### Components
+* Have ≥ 25% surface mount components.
 
-# Progress So Far
-
-### 3D printed door model and outer door housing
-
-![](./imgs/Lockmodel.jpg)
-
-### Render of current CAD work with RC522 and outer door housing
-![](./imgs/DeadboltAssembly.png)
+#### Assembly and debug
+* Be assembled by hand 
+* Be tested.
+#### Work
+* At least one breadboard prototype must work
+* You will receive 4 PCBs back from manufacturing; at least 1 must work.
+#### Documentation
+* Have live documentation.
+* Have all documentation and design files under revision control.
+* Use collaborative documentation tools
+### SHOULD
+#### Project Concept
+* Have a novel or interesting purpose.
+* Be packaged in an enclosure.
+* Have more complex sensors and actuators.
+#### Firmware
+* Be “bare metal”, with no 3rd party code used besides an IDE and vendor-provided libraries.
+#### PCB
+* Be as small as possible.
+#### Components
+* Have almost all surface mount components.
+#### Assembly and debug
+* Use reflow soldering (requires a stencil and solder paste).
+* Use SMT components that are not hard to hand assemble.
+* All parts ≥ 0603, no or very few QFNs, no BGAs, etc.
+#### Documentation
+* Use your collaboration tool's issue tracking system.
+* Have each component choice documented.
+### MAY
+#### Project Concept
+* Move / Explode.
+* Have a cool custom enclosure or mechanism.
+* Be aesthetically pleasing.
+#### Processor
+* Start from the
+    * ATMega328 
+    * ATMega32U4 
+#### Schematic
+* Use EAGLE CAD 
+#### PCB
+* Use EAGLE CAD 
+#### Documentation
+* Use Github for collaboration (supported in ECE411).
+* Have a video describing concept, use, and technology overview.
