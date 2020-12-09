@@ -31,10 +31,14 @@
 | 3   |-                        | NP |Eneloop                    | AA - 1200mah  |-                   | BK-3MCCA16FA        | AA Batteries                  | Amazon            | B00JHKSN4O             | https://www.amazon.com/Panasonic-BK-3MCCA16FA-eneloop-Pre-Charged-Rechargeable/dp/B00JHKSN4O/                                                                      | $2.59 | $7.77 |
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### SUBTOTAL
 =======
 ####SUBTOTAL
 >>>>>>> 50c7b7b (Update BOM)
+=======
+#### SUBTOTAL
+>>>>>>> 5fd4ce9 (Fix markdown formatting)
 $41.00
 
 # Physical Items
@@ -56,10 +60,14 @@ $41.00
 | 4   |                         |    |                           | M3x30                       | Flat Head Screw | |                  | Amazon | | https://www.amazon.com/gp/product/B07DDFR9Y3| $0.09 | $0.36 |
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### SUBTOTAL
 =======
 ####SUBTOTAL
 >>>>>>> 50c7b7b (Update BOM)
+=======
+#### SUBTOTAL
+>>>>>>> 5fd4ce9 (Fix markdown formatting)
 
 $8.23
 
@@ -72,6 +80,7 @@ $49.23
 $304.99
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # VERSION INFO
 
@@ -107,8 +116,12 @@ $304.99
 >>>>>>> 8a13dbc (Total reorganization of files and file names)
 =======
 #VERSION INFO
+=======
+# VERSION INFO
+>>>>>>> 5fd4ce9 (Fix markdown formatting)
 
-| Rev | Date | Notes |              
+| Rev | Date | Notes |
+| --- | --- | --- |
 | 1.0r0 | 2020-11-11 | Initial BOM. Imported from Eagle and John's google sheet |
 | 1.0r1 | 2020-11-17 | Verifying component parts and footprints to match distributor sizes. Replaced Eagle button with button spec'd here. |
 | 1.0r3 | 2020-12-01 | Added 100nF Capacitor missing |
