@@ -70,7 +70,7 @@ The smart lock solutions listed here do not use RFID/NFC as a method for unlocki
 
 ### RFID Door Lock Block Diagram
 
-![](./imgs/411 HW3 Block Diagram.png)
+![](./imgs/411HW3BlockDiagram.png)
 
 # Design Specification
 
