@@ -26,7 +26,7 @@
 | 1   |SW1                      | P  |Omron Electronics Inc-EMC D| BB3S-1000     |                    | BB3S-1000           | Tactile Switch                | Digikey           | SW415-ND               | https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/B3S-1000/20686                                                                            | $0.63 | $0.63 |
 | 3   |-                        | NP |Eneloop                    | AA - 1200mah  |-                   | BK-3MCCA16FA        | AA Batteries                  | Amazon            | B00JHKSN4O             | https://www.amazon.com/Panasonic-BK-3MCCA16FA-eneloop-Pre-Charged-Rechargeable/dp/B00JHKSN4O/                                                                      | $2.59 | $7.77 |
 
-####SUBTOTAL
+#### SUBTOTAL
 $41.00
 
 # Physical Items
@@ -47,7 +47,7 @@ $41.00
 | 4   |                         |    |                           | M3x8                        | Flat Head Screw | |                  | Amazon | | https://www.amazon.com/gp/product/B07DDFR9Y3| $0.09 | $0.36 |
 | 4   |                         |    |                           | M3x30                       | Flat Head Screw | |                  | Amazon | | https://www.amazon.com/gp/product/B07DDFR9Y3| $0.09 | $0.36 |
 
-####SUBTOTAL
+#### SUBTOTAL
 
 $8.23
 
@@ -60,9 +60,10 @@ $49.23
 $304.99
 
 
-#VERSION INFO
+# VERSION INFO
 
-| Rev | Date | Notes |              
+| Rev | Date | Notes |
+| --- | --- | --- |
 | 1.0r0 | 2020-11-11 | Initial BOM. Imported from Eagle and John's google sheet |
 | 1.0r1 | 2020-11-17 | Verifying component parts and footprints to match distributor sizes. Replaced Eagle button with button spec'd here. |
 | 1.0r3 | 2020-12-01 | Added 100nF Capacitor missing |
