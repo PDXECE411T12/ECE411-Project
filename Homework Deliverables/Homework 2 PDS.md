@@ -5,7 +5,7 @@ Miles Breslin, Miguel Higgins Moy, Noah Page, John Sharpe
 
 December 8, 2020
 
-Version 5.0
+Version 5.1
 
 # Need Statement
 
@@ -78,9 +78,9 @@ Energy
 
 Maintainability
 
-* Should be installed with 2mm and 2.5mm hex wrench and philips head screwdriver by homeowner
+* Should be installed with 2mm and 2.5mm hex wrench and phillips head screwdriver by homeowner
 
-Reliabilty and Avalability
+Reliability
 
 * Should be durable enough to last more than a year with regular use
 
