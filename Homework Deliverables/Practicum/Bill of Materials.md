@@ -1,7 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 50c7b7b (Update BOM)
+=======
+>>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 # Board Items
 
 | Cnt |Part References          |P/NP| Mfg                       |Value          | Package            | Mfg PN              | Description                   | Dist              | Dist Part Number       | Link                                                                                                                                                               |Cost Ea.|Cost Total|
@@ -32,6 +35,7 @@
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### SUBTOTAL
 =======
 ####SUBTOTAL
@@ -39,6 +43,9 @@
 =======
 #### SUBTOTAL
 >>>>>>> 5fd4ce9 (Fix markdown formatting)
+=======
+#### SUBTOTAL
+>>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 $41.00
 
 # Physical Items
@@ -61,6 +68,7 @@ $41.00
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### SUBTOTAL
 =======
 ####SUBTOTAL
@@ -68,6 +76,9 @@ $41.00
 =======
 #### SUBTOTAL
 >>>>>>> 5fd4ce9 (Fix markdown formatting)
+=======
+#### SUBTOTAL
+>>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 
 $8.23
 
@@ -80,6 +91,7 @@ $49.23
 $304.99
 
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 # VERSION INFO
@@ -119,11 +131,18 @@ $304.99
 =======
 # VERSION INFO
 >>>>>>> 5fd4ce9 (Fix markdown formatting)
+=======
+# VERSION INFO
+>>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 
 | Rev | Date | Notes |
 | --- | --- | --- |
 | 1.0r0 | 2020-11-11 | Initial BOM. Imported from Eagle and John's google sheet |
 | 1.0r1 | 2020-11-17 | Verifying component parts and footprints to match distributor sizes. Replaced Eagle button with button spec'd here. |
 | 1.0r3 | 2020-12-01 | Added 100nF Capacitor missing |
+<<<<<<< HEAD
 | 1.0r4 | 2020-12-08 | Final Revision including Physical items and batteries |
 >>>>>>> 50c7b7b (Update BOM)
+=======
+| 1.0r4 | 2020-12-08 | Final Revision including Physical items and batteries |
+>>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6

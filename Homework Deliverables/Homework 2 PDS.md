@@ -8,6 +8,7 @@ December 8, 2020
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Version 5.1
 
 # Need Statement
@@ -30,6 +31,13 @@ Version 5.1
 
 The global smartlock industry was estimated to be valued at 1.2 billion dollars in 2019. The recent invention of the smartlock has given homeowners or renters a greater number of ways to gain access to their home securely. RFID based smartlocks in particular are convenient due to the cheap cost of RFID cards, ease of programmability, and their ability to interface with the RFID features available in most Android smartphones. Many smartlocks available today require monthly subscriptions and internet connections to function, can be expensive, and don't always work with standard door mechanisms. A new doorlock system is needed that is less expensive, can read RFID inputs, functions with normal doorlock assemblies, and does not require a monthly subscription to operate.
 >>>>>>> f5ee63e (Edited Needs statement, re-formated Requirements section.)
+=======
+Version 5.1
+
+# Need Statement
+
+The global smartlock industry was estimated to be valued at 1.2 billion dollars in 2019. The recent invention of the smartlock has given homeowners or renters a greater number of ways to gain access to their home securely. RFID based smartlocks in particular are convenient due to the cheap cost of RFID cards, ease of programmability, and their ability to interface with the RFID features available in most Android smartphones. Many smartlocks available today require monthly subscriptions and internet connections to function, can be expensive, and don't always work with standard door mechanisms. A new doorlock system is needed that is less expensive, can read RFID inputs, functions with normal doorlock assemblies, and does not require a monthly subscription to operate.
+>>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 
 # Objective Statement
 
@@ -74,6 +82,9 @@ The smart lock solutions listed here do not use RFID/NFC as a method for unlocki
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 Functionality
 
 * Must be able to work with existing doors
@@ -94,6 +105,7 @@ Economic
 
 Energy
 
+<<<<<<< HEAD
 * Should be able to work during a power outage
 
 * May have enough battery capacity for regular use that will last a month
@@ -140,6 +152,11 @@ Energy
 * May have smart home integration
 >>>>>>> 8a13dbc (Total reorganization of files and file names)
 =======
+=======
+* Should be able to work during a power outage
+
+* May have enough battery capacity for regular use that will last a month
+>>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 
 Maintainability
 
@@ -152,7 +169,10 @@ Reliability
 Usability
 
 * May be easy to assemble
+<<<<<<< HEAD
 >>>>>>> f5ee63e (Edited Needs statement, re-formated Requirements section.)
+=======
+>>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 
 # System Architecture
 
