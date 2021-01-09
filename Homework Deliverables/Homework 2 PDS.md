@@ -5,39 +5,11 @@ Miles Breslin, Miguel Higgins Moy, Noah Page, John Sharpe
 
 December 8, 2020
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 Version 5.1
 
 # Need Statement
 
 The global smartlock industry was estimated to be valued at 1.2 billion dollars in 2019. The recent invention of the smartlock has given homeowners or renters a greater number of ways to gain access to their home securely. RFID based smartlocks in particular are convenient due to the cheap cost of RFID cards, ease of programmability, and their ability to interface with the RFID features available in most Android smartphones. Many smartlocks available today require monthly subscriptions and internet connections to function, can be expensive, and don't always work with standard door mechanisms. A new doorlock system is needed that is less expensive, can read RFID inputs, functions with normal doorlock assemblies, and does not require a monthly subscription to operate.
-=======
-Version 4.0
-
-# Need Statement
-
-The Internet of Things has infiltrated the home security market including smart locks for your front door. The RFID based locking system is a more convenient interface than the IOT devices, however, the RFID market is still mainly a commercial application and a very expensive one at that. As people begin to modernize their homes we think there is a need for the convenience provided by the RFID sensor that may also have other smart features.
->>>>>>> 8a13dbc (Total reorganization of files and file names)
-=======
-Version 5.0
-=======
-Version 5.1
->>>>>>> 3410526 (Fixed a typo in requirements section.)
-
-# Need Statement
-
-The global smartlock industry was estimated to be valued at 1.2 billion dollars in 2019. The recent invention of the smartlock has given homeowners or renters a greater number of ways to gain access to their home securely. RFID based smartlocks in particular are convenient due to the cheap cost of RFID cards, ease of programmability, and their ability to interface with the RFID features available in most Android smartphones. Many smartlocks available today require monthly subscriptions and internet connections to function, can be expensive, and don't always work with standard door mechanisms. A new doorlock system is needed that is less expensive, can read RFID inputs, functions with normal doorlock assemblies, and does not require a monthly subscription to operate.
->>>>>>> f5ee63e (Edited Needs statement, re-formated Requirements section.)
-=======
-Version 5.1
-
-# Need Statement
-
-The global smartlock industry was estimated to be valued at 1.2 billion dollars in 2019. The recent invention of the smartlock has given homeowners or renters a greater number of ways to gain access to their home securely. RFID based smartlocks in particular are convenient due to the cheap cost of RFID cards, ease of programmability, and their ability to interface with the RFID features available in most Android smartphones. Many smartlocks available today require monthly subscriptions and internet connections to function, can be expensive, and don't always work with standard door mechanisms. A new doorlock system is needed that is less expensive, can read RFID inputs, functions with normal doorlock assemblies, and does not require a monthly subscription to operate.
->>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 
 # Objective Statement
 
@@ -80,11 +52,6 @@ The smart lock solutions listed here do not use RFID/NFC as a method for unlocki
 
 # Requirements
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 Functionality
 
 * Must be able to work with existing doors
@@ -105,7 +72,6 @@ Economic
 
 Energy
 
-<<<<<<< HEAD
 * Should be able to work during a power outage
 
 * May have enough battery capacity for regular use that will last a month
@@ -121,58 +87,6 @@ Reliability
 Usability
 
 * May be easy to assemble
-=======
-* Must lock and unlock a door
-=======
-Functionality
-
->>>>>>> f5ee63e (Edited Needs statement, re-formated Requirements section.)
-* Must be able to work with existing doors
-* Must lock and unlock a door
-* Must be able to work without an internet connection
-* Should be able to work with existing locks
-* Should be able to lock/unlock from the inside by physical means
-* Should still allow for locking/unlocking with a normal key
-* May have smart home integration
-
-Performance
-
-* Should reliably sense RFID on first try > 90% of the time
-
-Economic
-
-* Should be cheaper than most market offerings (<$130)
-
-Energy
-
-* Should be able to work during a power outage
-
-* May have enough battery capacity for regular use that will last a month
-<<<<<<< HEAD
-* May have smart home integration
->>>>>>> 8a13dbc (Total reorganization of files and file names)
-=======
-=======
-* Should be able to work during a power outage
-
-* May have enough battery capacity for regular use that will last a month
->>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
-
-Maintainability
-
-* Should be installed with 2mm and 2.5mm hex wrench and phillips head screwdriver by homeowner
-
-Reliability
-
-* Should be durable enough to last more than a year with regular use
-
-Usability
-
-* May be easy to assemble
-<<<<<<< HEAD
->>>>>>> f5ee63e (Edited Needs statement, re-formated Requirements section.)
-=======
->>>>>>> d5b5a3b70057d3661e4041abf672602f9b6e73d6
 
 # System Architecture
 
